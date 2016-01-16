@@ -1,0 +1,9 @@
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.pdb
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojResolveAssemblyReference.cache
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.MainForm.resources
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.Cache
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.exe
+c:\users\楠\documents\visual studio 2015\Projects\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
